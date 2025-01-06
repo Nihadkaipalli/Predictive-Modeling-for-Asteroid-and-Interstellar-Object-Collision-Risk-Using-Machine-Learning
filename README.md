@@ -99,7 +99,7 @@ The dataset is a CSV file with the following structure:
 
 ### **Usage**
 1. Download the dataset and place it in the `data/` directory of your project.
-2. Ensure the file is named `Asteroid_Collision_Dataset.csv` for compatibility with the pipeline.
+2. Ensure the file is named `Asteroid_Collision_Dataset V2.csv` for compatibility with the pipeline.
 
 ---
 
